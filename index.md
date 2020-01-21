@@ -9,6 +9,8 @@ layout: default
 
 ### Hi there, welcome to my personal website (beta). A little bit about myself, I was originally from Guangzhou, China, and got my Statistics degree at University of California, Berkeley, and currently studied at the Master of Science in Business Analytic program in William & Mary at Williamsburg, Virginia.  
 
+[download some code](Inputting and Iterating Through Python Data.ipynb)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
